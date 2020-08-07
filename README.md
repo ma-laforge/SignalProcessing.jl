@@ -1,3 +1,7 @@
+# Deprecation Warning
+
+SignalProcessing.jl is now deprecated. Functionality migrated to [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl).
+
 # :art: Galleries (Sample Output) :art:
 
 [:satellite: SignalProcessing.jl](https://github.com/ma-laforge/FileRepo/tree/master/SignalProcessing/sampleplots/README.md) (might be out of date).
